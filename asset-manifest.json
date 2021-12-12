@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hackaio/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/hackaio/static/js/main.86a2ec80.chunk.js",
+    "main.js.map": "/hackaio/static/js/main.86a2ec80.chunk.js.map",
+    "runtime-main.js": "/hackaio/static/js/runtime-main.ec713b2e.js",
+    "runtime-main.js.map": "/hackaio/static/js/runtime-main.ec713b2e.js.map",
+    "static/css/2.818011ed.chunk.css": "/hackaio/static/css/2.818011ed.chunk.css",
+    "static/js/2.01ee3bde.chunk.js": "/hackaio/static/js/2.01ee3bde.chunk.js",
+    "static/js/2.01ee3bde.chunk.js.map": "/hackaio/static/js/2.01ee3bde.chunk.js.map",
+    "index.html": "/hackaio/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/hackaio/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/hackaio/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.01ee3bde.chunk.js.LICENSE.txt": "/hackaio/static/js/2.01ee3bde.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec713b2e.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.01ee3bde.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.86a2ec80.chunk.js"
+  ]
+}
